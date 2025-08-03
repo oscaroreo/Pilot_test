@@ -1,0 +1,26 @@
+{
+  "name": "pilot-test",
+  "version": "1.0.0",
+  "description": "Pilot研究系统 - 支持随机化推文顺序和Note A/B盲测",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "backend": "cd backend && npm start",
+    "backend-dev": "cd backend && npm run dev",
+    "install-backend": "cd backend && npm install"
+  },
+  "directories": {
+    "frontend": "./frontend",
+    "backend": "./backend"
+  },
+  "keywords": [
+    "pilot-study",
+    "randomization", 
+    "survey",
+    "研究",
+    "随机化",
+    "A/B-testing"
+  ],
+  "author": "",
+  "license": "MIT"
+}

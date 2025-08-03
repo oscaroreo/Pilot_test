@@ -1,0 +1,27 @@
+{
+  "name": "pilot-test-backend",
+  "version": "1.0.0",
+  "description": "Pilot研究后端服务器，支持随机化推文顺序",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "install-deps": "npm install express cors nodemon"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "keywords": [
+    "pilot-study",
+    "randomization",
+    "survey",
+    "研究",
+    "随机化"
+  ],
+  "author": "",
+  "license": "MIT"
+}
