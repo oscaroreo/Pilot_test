@@ -1,0 +1,474 @@
+[
+  {
+    "index": 1,
+    "post": "A petition has been created to appeal the Tory Lanez verdict immediately https://t.co/sRHXxm3f4D",
+    "tweet_id": "1607183508388315136",
+    "community_notes": "In a civil case, either party may appeal to a higher court. In a criminal case, only the defendant has a right to an appeal in most states. A public change.org petition may demonstrate support for Tory Lanez, however, it is not a legal process. \nhttps://www.americanbar.org/groups/public_education/resources/law_related_education_network/how_courts_work/appeals/#:~:text=In%20a%20civil%20case%2C%20either,an%20appeal%20in%20most%20states.",
+    "LLM_notes": "The post claims a petition to immediately appeal the Tory Lanez verdict has been created, but this is inaccurate. Petitions do not overrule court decisions or start appeals; appeals require a motion from the lawyer after his January sentencing, and there are only a small number of signatures, which won’t affect the legal process. The legal system doesn’t work through digital petitions, and he may not qualify for a free appellate lawyer, so the petition won’t lead to an immediate appeal.",
+    "label": "P"
+  },
+  {
+    "index": 2,
+    "post": "Ex-Deputy who helped wife serve semen-laced cupcakes to students was sentenced to 100 years in prison for sex crimes https://t.co/gbaHW3Wz0N",
+    "tweet_id": "1611086936952930305",
+    "community_notes": "Dennis Perkins, a former deputy, pleaded guilty and was sentenced to 100yrs in prison without probation or parole. He pleaded guilty to charges of second-degree rape, production of child porn and production of child porn involving juveniles under the age of 13, & more. \nhttps://www.cbs42.com/regional/louisiana-news/dennis-perkins-pleads-guilty-in-sex-crimes-case-sentenced-to-100-years/amp/",
+    "LLM_notes": "Some people question if the semen-laced cupcakes are accurate, with comments asking how they found out about semen being in the cupcakes. The actual charges include more serious crimes, like 2nd degree rape of a minor, sexual battery of minors under 13, filming a minor in a bath (child pornography), and producing pornography involving children under 13, not just the cupcakes.",
+    "label": "P"
+  },
+  {
+    "index": 3,
+    "post": "I think Rishi Sunak said today at PMQs that the UK economy grew as much as the German economy last year. This is not true. The German economy grew by 1.9%, the UK economy grew by 0.5%. Besides that the German economy is larger than the UK economy.",
+    "tweet_id": "1620919676355100676",
+    "community_notes": "The 0.5% UK growth figure used here, appears to be the monthly growth figure, for Oct 2022 compared to Sept 2022.\nhttps://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/october2022\n\nThe 1.9% German growth figure used is the growth for the whole of 2022 compared to 2021.\nhttps://www.destatis.de/EN/Press/2023/01/PE23_037_811.html\n\nThis is not the same.\n\nUK growth for 2022 is projected to be 4.1%.\nhttps://www.imf.org/en/Blogs/Articles/2023/01/30/global-economy-to-slow-further-amid-signs-of-resilience-and-china-re-opening",
+    "LLM_notes": "The post's claim that Rishi Sunak said the UK economy grew as much as Germany's last year is inaccurate. Economists note this is misleading because it doesn't account for faster UK population growth, and GDP per capita (which determines living standards) is actually slower in the UK. Additionally, the UK economy is now smaller relative to Germany than in 2016, dropping from 90% of Germany's size to 70%. Germany is also more exposed to energy price impacts due to its larger industrial output and past reliance on Russian gas, and its economy is larger with better living standards.",
+    "label": "T"
+  },
+  {
+    "index": 7,
+    "post": "Under my predecessor, the deficit went up four years in a row. \n\nIn the last two years, my Administration cut the deficit by more than $1.7 trillion. \n\nThe largest deficit reduction in American history.",
+    "tweet_id": "1624423012966465544",
+    "community_notes": "Tweet is statistically accurate, yet misleading.\n\n1) COVID spending led to huge deficits in 2020 & 2021; its end created the deficit reduction in 2022.\n\n2) However, Biden's other spending increases made the 2022 deficit 41% larger than Trump’s largest non-COVID deficit.\n\nhttps://fiscaldata.treasury.gov/americas-finance-guide/national-deficit/#us-deficit-by-year\nhttps://www.cnn.com/2023/02/07/politics/fact-check-president-biden-state-of-the-union/index.html\nhttps://www.factcheck.org/2023/02/factchecking-the-state-of-the-union-4/\nhttps://www.nytimes.com/2023/02/07/us/politics/biden-state-of-the-union-fact-check.html",
+    "LLM_notes": "The post is misleading. The deficit reduction the administration claims is mostly because emergency COVID spending programs expired, not actual policy changes by the current administration. The national debt has still increased significantly, rising from $28.4 trillion to over $31.4 trillion, and the predecessor's deficit increases were driven by pandemic response, not their own policies.",
+    "label": "T"
+  },
+  {
+    "index": 12,
+    "post": "Scientists have revived a \"zombie\" virus that spent 48,500 years frozen in permafrost 😳 https://t.co/jyKtVTKODH",
+    "tweet_id": "1633871320684298261",
+    "community_notes": "The headline's grammar is confusing: the virus does not actually cause or create \"zombies\", rather the virus itself is a zombie, considering it has been revived after thousands of years. \n\nThe picture is irrelevant and has nothing to do with the discovery. \n\nhttps://amp.cnn.com/cnn/2023/03/08/world/permafrost-virus-risk-climate-scn/index.html",
+    "LLM_notes": "The \"zombie\" term refers to the virus being revived from long dormancy, not that it can turn humans into zombies. The virus only infects single-celled amoebas, not humans or animals. The information is old news, having been reported in 2014, 2022, 2023, etc. The post is misleading clickbait, as it misrepresents the virus as a human threat when it’s a non-harmful amoeba-infecting virus from permafrost.",
+    "label": "P"
+  },
+  {
+    "index": 16,
+    "post": "DIED SUDDENLY: Two-year-old Nevaeh Muley/Heart Failure (See Link for Details)\nNOTE: In Ontario, a two-year-old child May Have Received more than 30-Doses of Vaccines (excluding covid jabs; which are now available at 6-months of age)\nhttps://t.co/fb4NVgV4Nz https://t.co/8RBtfLLmK7",
+    "tweet_id": "1640500948836442130",
+    "community_notes": "Hamilton toddler dies of invasive Strep A NOT a Covid-19 Vaccine\nhttps://www.thespec.com/news/hamilton-region/2023/03/24/hamilton-toddler-dies-of-invasive-strep-a.html",
+    "LLM_notes": "The post claims a two-year-old died suddenly from heart failure and mentions the child may have received more than 30 vaccine doses, but the cause of death is actually a Strep infection, not related to vaccines. It’s also inaccurate to suggest the child had many vaccines; typical 2-year-old vaccine schedules include much fewer doses, and the post is lying about the cause to spread an agenda.",
+    "label": "P"
+  },
+  {
+    "index": 19,
+    "post": "The Court of Appeal ruled that the Rwanda policy is in breach of international human rights law. https://t.co/xPZfXdMWi4",
+    "tweet_id": "1635714918652444701",
+    "community_notes": "This is false.\nThe court of appeal has granted permission for a group of asylum seekers to appeal the Uk governments Rwanda policy\n\nhttps://www.theguardian.com/uk-news/2023/mar/14/asylum-seekers-win-permission-for-rwanda-policy-legal-challenge",
+    "LLM_notes": "The post claims the Court of Appeal ruled the Rwanda policy breaches international human rights law, but this is incorrect. The court actually gave permission to appeal, not a conclusion that the policy violates law. No final decision on the lawfulness was reached, and the Supreme Court has previously overturned related rulings.",
+    "label": "T"
+  },
+  {
+    "index": 21,
+    "post": "Little Ron isn't who Fox News tells you he is.\n\nhttps://t.co/piDEuPSX56",
+    "tweet_id": "1639311104374456345",
+    "community_notes": "The Florida law that permitted forced vaccination was passed in 2002. The bill referenced in the article that DeSantis signed did not add or change it. \nhttps://www.flsenate.gov/Session/Bill/2002/1262/?Tab=BillHistory\nLater in 2021, DeSantis signed a bill that removed the power of the State of Florida to force such vaccinations. \nhttps://www.flsenate.gov/Session/Bill/2021B/7B/ByCategory/?Tab=BillHistory",
+    "LLM_notes": "The claim that the language about mandates in the law was put in by DeSantis is false. That language was already in the statute long before he became governor. He actually signed bills that removed the \"By Any Means Necessary\" mandate and added prohibitions on local health agencies requiring vaccine passports.",
+    "label": "T"
+  },
+  {
+    "index": 23,
+    "post": "People in Vienna who wear masks on public transport without a medical note will be fined 150 euros. How the tables have turned.",
+    "tweet_id": "1633901854110171165",
+    "community_notes": "The Austrian Government guidelines explicitly state that medical masks are exempt from such fines. The guidelines prohibit the full concealment of an individual's face. \nFor more, please see:\nhttps://www.oesterreich.gv.at/en/themen/leben_in_oesterreich/aufenthalt/Seite.120251.html",
+    "LLM_notes": "The claim that wearing masks without a medical note in Vienna's public transport will result in a 150-euro fine is incorrect. Austria has a 2017 law banning full face coverings (like burqas), not regular masks. Medical masks are an exception, so wearing them isn't illegal. Also, the mask mandate for public transport ended in February 2023, so there's no current requirement to wear masks, and no specific law targets people for wearing masks without a medical note.",
+    "label": "T"
+  },
+  {
+    "index": 24,
+    "post": "BREAKING NEWS, over 200 Chinese warships in the Taiwan strait. Looks like it could be an invasion just like I said.",
+    "tweet_id": "1625246297287524387",
+    "community_notes": "This tweet is exaggerated. There is no evidence of the “200 ships” claim. \nSince the U.S. shot down a suspected Chinese balloon on Feb 4, 2022, China has increased its military presence near the Taiwan Straight, but not at the scale this tweet claims. \nhttps://www.upi.com/amp/Top_News/World-News/2023/02/13/Taiwan-China-Taiwan-Strait-South-China-Sea-naval-drills/6221676276651/\nhttps://www.foxnews.com/world/taiwan-says-dozens-chinese-spy-craft-cross-airspace-tensions-flare-us.amp",
+    "LLM_notes": "The claim of over 200 Chinese warships in the Taiwan Strait is inaccurate. The report in question is from 2021, and current sources only mention 2 dozen warships, not 200. There is no evidence of such a large deployment, and it’s unlikely China would commit such a large portion of its navy for this type of conflict.",
+    "label": "T"
+  },
+  {
+    "index": 28,
+    "post": "Did you know that Casey DeSantis’s real name isn’t Casey? \n\nIt’s Jill. \n\nTrue story. \n\nShe and Ron DeSantis got married at Disney too. Weird for a guy who always likes to play tough guy with \nhis Disney Donors. \n\nEverything about Jill and Ron is fake.",
+    "tweet_id": "1625158429789589504",
+    "community_notes": "Casey DeSantis's full name is Jill Casey DeSantis. The name \"Casey\" is not fake; the First Lady is simply going by her middle name.\nhttps://en.wikipedia.org/wiki/Casey_DeSantis",
+    "LLM_notes": "Casey DeSantis’s real name is Jill Casey DeSantis—she goes by her middle name, Casey, which is a common choice for many people, not something fake. They got married at Disney in 2009, long before Disney became involved in recent political conflicts, so the wedding location isn’t a sign of inauthenticity. The claim that \"everything about them is fake\" is baseless because using a middle name or getting married at a venue years ago doesn’t make someone fake; these are normal, common things.",
+    "label": "T"
+  },
+  {
+    "index": 29,
+    "post": "Louis DeJoy plans to slash 50,000 USPS jobs.\n \nWhy in the world does Trump's postmaster general still have his job?\n \nAnd how is this not a massive national scandal?",
+    "tweet_id": "1623748819367170048",
+    "community_notes": "The USPS plans to eliminate 50,000 positions over the next 10 years, against a base of 517,000 employees.  These will be through retirements and other attrition, not through layoffs.  It will allow for modernization and streamlining of the postal service.  \nhttps://www.newsweek.com/usps-plans-cut-50000-jobs-reach-break-even-point-united-states-postal-service-1729372",
+    "LLM_notes": "Louis DeJoy is not \"Trump's postmaster general\"—he serves under President Biden, though he was appointed by the U.S. Postal Service Board of Governors, which is filled with Trump appointees, making it hard to fire him. The 50,000 job cuts are planned through attrition over 10 years, not mass layoffs, and the USPS has been losing billions annually for decades due to declining mail demand and inefficiency, not a scandal.",
+    "label": "P"
+  },
+  {
+    "index": 30,
+    "post": "Donald Trump has shown proficiency in implying a desire for violence without explicitly stating it.\n\nOn the same day that Trump warned of \"potential death & destruction\" if he is to be indicted, he also posted this photo along with a link to an article with this photo in it,… https://t.co/1TAohtmKkf https://t.co/N57wuDg5Vi",
+    "tweet_id": "1639295355006197841",
+    "community_notes": "Donald Trump did not post nor create this photo.\nAuthor Frankie Stockes added this image as part of his article on the conservative site: National File.\nThe image is pulled in automatically when including the URL, like on Facebook or Twitter.\nhttps://nationalfile.com/just-10-of-manhattan-residents-voted-for-anti-trump-da-in-2021-election/",
+    "LLM_notes": "The photo in question was taken in 2017, not the day Trump posted the link. Trump did not post the photo himself; he linked to an article that included it. It is not a call for violence, as the post falsely claims, since it is an old image unrelated to the current context and does not imply a desire for violence.",
+    "label": "P"
+  },
+  {
+    "index": 31,
+    "post": "On every TV commercial about any prescription drug, they always say the side effects, and ingredients are known.\n\nWe have no idea what is in Covid vaccines.\n\nAnd they refuse to acknowledge the deadly side effects.\n\nIt’s time to force them to talk.",
+    "tweet_id": "1617173300722995201",
+    "community_notes": "The ingredient lists for the Pfizer-BioNTech COVID-19 vaccine, the Moderna COVID-19 vaccine, and the Johnson & Johnson COVID-19 vaccine are available here:\nhttps://portal.ct.gov/vaccine-portal/Vaccine-Knowledge-Base/Articles/Ingredients-In-Vaccine?language=en_US",
+    "LLM_notes": "The post is inaccurate. Information about COVID vaccine ingredients and side effects is publicly available—you can find it via Google, check CDC or manufacturer websites, ask pharmacists or doctors, or review consent forms provided before vaccination. Side effects are acknowledged and documented, not hidden, making the claims that \"we have no idea what is in them\" and \"they refuse to acknowledge deadly side effects\" false.",
+    "label": "P"
+  },
+  {
+    "index": 32,
+    "post": "Exclusive: @JamesOKeefeIII, my friend and former boss at @Project_Veritas, just read his resignation letter to his former team and board members at their Mamaroneck, N.Y. headquarters. James will make his own way—as he always has before. @OANN https://t.co/A0uAo9570K https://t.co/knOqtFTw7e",
+    "tweet_id": "1627711907636383745",
+    "community_notes": "James O'Keefe did not in fact read his resignation letter to the team, but rather revealed that he had been removed from power as CEO and 'suspended indefinitely' without pay by the Project Veritas board of directors. https://twitter.com/JamesOKeefeIII/status/1627842304374439936?s=20",
+    "LLM_notes": "The post claims James O'Keefe resigned, but comments say he was actually forced out or ousted by the Project Veritas board, not that he resigned voluntarily.",
+    "label": "P"
+  },
+  {
+    "index": 34,
+    "post": "Female weight lifter suffers severe testicular rupture in competition... https://t.co/mEKdo2Rghs",
+    "tweet_id": "1631380799776862210",
+    "community_notes": "This is a headline and image from a Babylon Bee article, which is a satirical news website.\nhttps://babylonbee.com/news/female-weightlifter-suffers-tragic-testicle-injury-just-weeks-before-tokyo-olympics",
+    "LLM_notes": "Women don't have testicles, so the post's claim that a female weightlifter suffered a testicular rupture is inaccurate. The scenario must involve a male, as only males have testicles.",
+    "label": "P"
+  },
+  {
+    "index": 35,
+    "post": "Mark Meadows, Eric Trump, Ivanka Trump, Don Jr. Trump and Donald J. Trump seen here on January 6th watching the insurrection unfold while dancing and laughing. They enjoyed this. This is what they wanted. Trump waited 187 minutes before he did anything. https://t.co/Ik3y3yeiYd",
+    "tweet_id": "1624857486908858368",
+    "community_notes": "This is not a photo of trumps and friends watching the insurrection. This is misinformation. This is before the rally. \nhttps://www.usatoday.com/story/news/factcheck/2021/01/11/fact-check-video-shows-trump-family-tent-before-jan-6-rally/6616490002/\nhttps://www.cnbc.com/amp/2021/01/08/capitol-riots-video-shows-trump-family-before-rally.html\nhttps://apnews.com/article/fact-checking-afs:Content:9916360242",
+    "LLM_notes": "The post’s claim that Mark Meadows, Eric Trump, Ivanka Trump, Don Jr. Trump, and Donald J. Trump were \"watching the insurrection unfold while dancing and laughing\" on January 6 is inaccurate. The photos actually show them before the rally and before Trump spoke, not during the insurrection. Trump was at the White House watching the attack on television, not present in the tent with the others, and he did not intervene for 187 minutes, though the timing of the photos predates the Capitol breach.",
+    "label": "P"
+  },
+  {
+    "index": 36,
+    "post": "The Jewish Rothschild family are worth approximately 500 trillion dollars and control almost every central bank in the world and own a majority stake in almost every major company in the world. But I can't say anymore, or God forbid I'd be labelled \"anti-semitic\" or something.",
+    "tweet_id": "1621284942847131649",
+    "community_notes": "At the end of 2021, global wealth was estimated to be about $463.6 trillion. \nThe closest thing to a \"Rothschild Family\" business is Rothschild & Co, which is worth about $15 billion. Not a single member of the family is on Forbes' 2023 list of the world's billionaires.\n\nhttps://www.credit-suisse.com/about-us/en/reports-research/global-wealth-report.html\nhttps://www.rothschildandco.com/siteassets/publications/rothschild_and_co/2020/full_year_results/en_randco_2020_fy_pr.pdf\nhttps://www.forbes.com/billionaires/",
+    "LLM_notes": "The post’s claims about the Rothschild family being worth 500 trillion dollars, controlling most central banks, and owning major companies are false. The total world economy is around 100 trillion dollars, so 500 trillion is more than the total wealth in existence, and no source supports this number. The Rothschilds aren’t even among the top 20 richest families now, and there’s no evidence they control central banks or own majority company stakes. Mentioning their Jewish identity is also antisemitic, as Jewish people aren’t a monolithic group, and the claims mirror old antisemitic conspiracy theories like the Protocols of the Elders of Zion.",
+    "label": "T"
+  },
+  {
+    "index": 46,
+    "post": "NASA Just Saw Something Come Out Of A Black Hole For The First Time Ever \n\nhttps://t.co/dQcTZ9ygTH",
+    "tweet_id": "1617693077501775874",
+    "community_notes": "Nothing came out of a black hole. A radiation flare was observed from activity in the corona (a region of highly energetic particles surrounding the black hole) around black hole Markarian 335 in 2014.\nOriginal story from 2015: https://www.jpl.nasa.gov/news/black-hole-has-major-flare",
+    "LLM_notes": "The post claims NASA \"just saw something come out of a black hole for the first time ever,\" but this is inaccurate. The article is from 2015, so \"just\" is misleading. The event actually happened a long time ago, 324 million years in the past, meaning it’s not the first time it occurred, just the first time observed. Also, it’s not \"something coming out\"—it’s data analysis of a past event, and mass ejections from black holes have been seen before, so it’s not new.",
+    "label": "T"
+  },
+  {
+    "index": 49,
+    "post": "If you’re surprised by ruling today just know that the judge is related to Trudeau. You can’t make this shit up.",
+    "tweet_id": "1626679858087739392",
+    "community_notes": "This is false. It’s been widely fact checked that Rouleau is not related to Prime Minister Trudeau. https://beta.ctvnews.ca/national/politics/2023/2/19/1_6280633.amp.html",
+    "LLM_notes": "The claim that the judge is related to Trudeau is false. Multiple sources (thoughts) state there is no relation between them, the claim has been fact-checked and proven untrue, and the post is spreading misinformation by making up a false connection.",
+    "label": "T"
+  },
+  {
+    "index": 50,
+    "post": "BREAKING NEWS! #KingCharles has apologized for upsetting members of his family with his announcement today that he was stripping two of his grandchildren of their royal titles, but he did not back down from his decision.👏👏 \n#PressRelease #KingCharles #WrittenForBuckinghamPalace https://t.co/UDzNK93Q3C",
+    "tweet_id": "1633605584846196741",
+    "community_notes": "The image on the left is a doctored statement from Her Majesty The Queen of Denmark. \nhttps://news.sky.com/story/amp/queen-of-denmark-apologises-for-stripping-grandchildren-of-royal-titles-12711688",
+    "LLM_notes": "The post is inaccurate. It is based on an edited version of Denmark's Queen Margarethe's decree on streamlining the Danish monarchy, not King Charles. The Sussex children, Archie and Lilibet, still have their royal titles, as seen on the official royal website which lists them as Prince Archie and Princess Lilibet. Additionally, the post incorrectly refers to Charles as \"she\" in parts, and there is no official Buckingham Palace press release confirming the title stripping; media reports contradict the claim.",
+    "label": "P"
+  },
+  {
+    "index": 52,
+    "post": "KJP: \"We can't keep seeing what we saw today...Six elementary kids dead...\" https://t.co/TdgX4odDX1",
+    "tweet_id": "1640414984269119653",
+    "community_notes": "although the statement is clearly hers. it is factually incorrect.\n6 people total, 3 of which were children\nhttps://www.nytimes.com/live/2023/03/28/us/nashville-school-shooting-tennessee",
+    "LLM_notes": "The post claims KJP said \"Six elementary kids dead,\" but multiple sources (comments) state this is inaccurate. They consistently report that three children and three adults died, not six kids. The number of children killed was misrepresented in the post.",
+    "label": "P"
+  },
+  {
+    "index": 57,
+    "post": "a massive death plume spanning multiple counties in Ohio is raining down hydrochloric acid onto people because a bomb train carrying vinyl chloride was deliberately classified as non-hazardous to save Norfolk Southern money and regulatory inconveniences",
+    "tweet_id": "1624129831540768769",
+    "community_notes": "There is no evidence that Norfolk Southern misclassified the contents of the train cars. Articles analyzing the safety issues question whether vinyl chloride is safe to transport at all.\n> The accident raises questions about safe rail transportation of vinyl chloride\nhttps://cen.acs.org/safety/Safety-questions-remain-Ohio-train/101/i6",
+    "LLM_notes": "The post claims hydrochloric acid is raining down from a \"death plume\" and that vinyl chloride was deliberately classified as non-hazardous to save money. However, comments note that hydrochloric acid was not on the train, and what was released is actually hydrogen chloride gas, not acid. Additionally, comments state classification of materials is the shipper’s responsibility, not Norfolk Southern, and there is no evidence the vinyl chloride was incorrectly classified as non-hazardous; the company was aware of its hazards.",
+    "label": "T"
+  },
+  {
+    "index": 59,
+    "post": "Far-right terrorist grifter @ChayaRaichik10 released a children's book to encourage anti-queer violence. In a hilarious twist of irony, the illustrator made the mother sheep a ram. That's right, Libs of TikTok has a protagonist TRANS SHEEP in her book! 🥳 https://t.co/dOExZJTbgs",
+    "tweet_id": "1629566346047389698",
+    "community_notes": "This ram is the father character in the book “No More Secrets: The Candy Cavern”. This tweet only shows a portion of a two-page spread from the book and has cropped out the mother sheep, who is depicted with no horns.\nThe book’s author has provided an un-cropped image:\nhttps://t.co/ld6NIZF27K",
+    "LLM_notes": "The post falsely claims the children's book has a \"trans sheep\" protagonist by misrepresenting a ram as the mother sheep. In reality, the ram is the father, and the mother sheep is shown on the adjacent left page, which was cropped out of the post to spread the lie. Additionally, some commenters note that female sheep (ewes) can have horns, but the core issue is the deliberate omission of the mother sheep to falsely suggest a trans character.",
+    "label": "P"
+  },
+  {
+    "index": 60,
+    "post": "While we’re distracted by pronouns, UFOs, & Woke Jesus, it’s important to remember that over 100,000 gallons of burning vinyl chloride is destroying the air, water, soil, & living creatures of Palestine, Ohio.\n\nThis is one of the biggest ecological disasters in American history. https://t.co/wi0w7YoXoJ",
+    "tweet_id": "1625153911525937157",
+    "community_notes": "This event is unfolding in East Palestine, a town in northeastern Ohio, not the town of Palestine, in western Ohio. They are nearly 4.5 hours away from each other by car. \nhttps://www.cnn.com/2023/02/06/us/east-palestine-ohio-train-derailment-fire-monday",
+    "LLM_notes": "The location is actually East Palestine, not Palestine, Ohio. The post also overstates the disaster as one of the biggest ecological disasters in American history, which is not correct; it’s described as a bad but not historically among the largest. Additionally, the chemical burning produces hydrochloric acid, and the toxin cloud can spread through wind, affecting multiple states, not just the area around East Palestine.",
+    "label": "P"
+  },
+  {
+    "index": 62,
+    "post": "Exclusive: Twitter removes suicide prevention feature, says it's under revamp https://t.co/LFOgJ7nbqL https://t.co/qjfSYBpFTS",
+    "tweet_id": "1606517541920276481",
+    "community_notes": "Twitter CEO Elon Musk confirmed that this statement is false and that the suicide prevention feature has not been removed.\nhttps://twitter.com/elonmusk/status/1606631724922056704?s=46&t=77JgLCd2bpOdYI6NVuTikQ",
+    "LLM_notes": "The suicide prevention feature on Twitter is still active, not removed. Some sources note it was temporarily taken down for fixing and revamping, not permanently removed. Elon Musk has also confirmed the feature remains, and people can verify it by checking the platform themselves.",
+    "label": "P"
+  },
+  {
+    "index": 65,
+    "post": "Stanford is banning the word “American” on its websites because the term may be offensive.\n\nYou can’t make this up.",
+    "tweet_id": "1605624908112973824",
+    "community_notes": "According to Stanford, the language guidelines in question do not represent a \"ban\" or mandate, but were created for discussion purposes - and only within the IT community. \nhttps://itcommunity.stanford.edu/news/update-elimination-harmful-language-initiative-stanfords-it-community ",
+    "LLM_notes": "Stanford did not ban the word \"American\" on its websites. Instead, it recommended using \"U.S. Citizen\" in some contexts for clarity, as \"American\" can refer to people from other countries in the Americas (like Canada, Mexico, or those in Central/South America). The term \"American\" itself was not banned and was even welcomed, with the school clarifying the need for precision rather than offense.",
+    "label": "T"
+  },
+  {
+    "index": 68,
+    "post": "BREAKING: Greta Thunberg brutally trolls Andrew Tate after he’s arrested in Romania after he posted a video taunting her with a pizza box that proved to authorities he was in the country: “This is what happens when you don’t recycle your pizza boxes.” RT IF YOU’RE TEAM GRETA!",
+    "tweet_id": "1608816325031505920",
+    "community_notes": "A spokesperson for Romania’s anti-organized crime agency refuted widespread claims that authorities were tipped off to Tate's location by a pizza box seen in a video Tate posted in response to climate activist Greta Thunberg: \"Funny, but no.\"\nhttps://apnews.com/article/romania-crime-bucharest-organized-human-trafficking-0b65ac32442d995e590ab70c221398a1",
+    "LLM_notes": "Andrew Tate was not arrested because of the pizza box. He was being investigated for human trafficking, and the pizza box had nothing to do with his arrest. Some also say he was held for 45 minutes as a witness to false allegations, not arrested, and the pizza box was not the reason for any legal action.",
+    "label": "T"
+  },
+  {
+    "index": 69,
+    "post": "BREAKING: Two US F-35 fighter jets just intercepted a Russian fighter aircraft off the coast of Alaska.\n\nRussia is preparing for nuclear war. Get used to this.",
+    "tweet_id": "1626280931286986752",
+    "community_notes": " NORAD considerers these flights routine and not a nuclear threat.\nhttps://twitter.com/NORADCommand/status/1626291565306998787",
+    "LLM_notes": "This is not new or a sign of Russia preparing for nuclear war. Intercepts of Russian aircraft off Alaska have happened regularly for decades, often multiple times a year, and are described by NORAD as routine, not provocative or a threat. Pilots and military personnel stationed in Alaska have long noted this as standard activity, with the U.S. and Russia testing each other’s response times, not preparing for conflict.",
+    "label": "T"
+  },
+  {
+    "index": 70,
+    "post": "BREAKING: Attorney General Denise George gets terminated just days after she filed a lawsuit against JPMorgan Chase for aiding Jeffrey Epstein.\n\nThe elites are getting scared. https://t.co/xt90MP8YH2",
+    "tweet_id": "1609954563947376641",
+    "community_notes": "Virgin Islands A.G.Denise George, who reached a $105 million settlement with Epstein’s estate was terminated after suing JPMorgan Chase in connection with her probe. Her termination was allegedly due to failure to notify Gov. Albert Bryan about her impending action. \nhttps://www.cnn.com/2022/12/29/business/jeffrey-epstein-jpmorgan-virgin-islands/index.html \nhttps://www.virginislandsdailynews.com/news/bryan-terminates-attorney-general-denise-george/article_0cc24de2-7a57-5715-a100-787a75803304.html\nhttps://lawandcrime.com/live-trials/live-trials-current/jeffrey-epstein/virgin-islands-attorney-general-loses-her-job-days-after-suing-jpmorgan-chase-in-connection-with-the-jeffrey-epstein-probe/",
+    "LLM_notes": "The post claims Attorney General Denise George was terminated because \"the elites are getting scared\" after she sued JPMorgan Chase for aiding Jeffrey Epstein, but comments indicate the termination was by the Virgin Islands governor, not elites. Some suggest she was fired for not consulting the governor before filing the lawsuit, and the lawsuit against JPMorgan is still ongoing, consolidated in New York, not dropped.",
+    "label": "T"
+  },
+  {
+    "index": 72,
+    "post": "Pretty absurd that chatGPT has passed the United States Medical Licensing Examination (USMLE). \n\nToday, it takes 4 years of med school and 2+ years of clinical rotations to pass. It tests ambiguous scenarios & closely-related differential diagnoses\n\nhttps://t.co/oGdKXhEnUt",
+    "tweet_id": "1617194845810077697",
+    "community_notes": "The cited article (which has not been peer-reviewed) does not conclude that ChatGPT had “passed” the USMLE, as has been stated in this tweet.\nRather, the results approached passing but did not meet/reach it, with accuracy for Step 1 68.0%, Step 2CK 58.3%, and Step 3 62.4%. https://t.co/GGKbYfeUFR",
+    "LLM_notes": "The post’s claim that passing the USMLE requires 4 years of med school and 2+ years of clinical rotations is incorrect; these are the requirements to be eligible to take the test, not the time to pass it. The USMLE is mostly rote memorization and pattern recognition, not ambiguous clinical scenarios or complex differential diagnoses, as 90% of it is about recalling facts and question patterns, not actual medical understanding. Additionally, ChatGPT did not \"pass\" the USMLE but only \"approached passing performance\" (43-68% accuracy), and the test excluded non-text questions (images, sound), limiting its difficulty. Passing the USMLE does not reflect clinical ability, as it is a memory-based exam, not a measure of real-world medical practice.",
+    "label": "T"
+  },
+  {
+    "index": 74,
+    "post": "GOP leadership continues to support Santos and his lies but  harass Raskin for covering his head in DC cold weather while undergoing chemo treatments. Insanity. Total insanity.",
+    "tweet_id": "1620773524112814082",
+    "community_notes": "Rep. Raskin has explained that he was making a joke. There is no indication that anyone has asked him to remove his cap in the House.\nhttps://politizoom.com/house-gop-rules-that-rep-jaime-raskin-remove-his-cap-as-he-undergoes-chemo-twitter-goes-insane/\n\nRep. Raskin thanked Rep. Chip Roy (R-TX) and Rep. James Comer (R-KY) for their kind words of encouragement at recent committee hearings.\nhttps://youtu.be/LTcHjsUsKr0\nhttps://twitter.com/therecount/status/1620470029090168835",
+    "LLM_notes": "Raskin was joking about being asked to remove his head covering by Republicans, and no Republicans actually asked him to remove his cap in the House, which makes the post's claim of harassment inaccurate.",
+    "label": "T"
+  },
+  {
+    "index": 75,
+    "post": "BREAKING EXCLUSIVE: The Federal Government Is TRACKING Unvaccinated People Who Go To The Doctor and to the Hospital, Due to CDC-Designed Surveillance Program.\n\nNational File has obtained the government video they do NOT want you to see!\n\nhttps://t.co/wEiUlzj6uk",
+    "tweet_id": "1620922064063574020",
+    "community_notes": "Many of these Z  \"codes went into effect on Oct. 1, 2015, and can apply to a number of vaccines, not just COVID-19 shots.\"\nhttps://www.usatoday.com/story/news/factcheck/2021/11/18/fact-check-claim-medical-diagnosis-codes-missing-context/8655532002/",
+    "LLM_notes": "The post's claim that the government is tracking unvaccinated people at doctors and hospitals via a CDC surveillance program is inaccurate. Doctors and hospitals do not regularly ask about vaccination status, so they cannot track individuals. ICD-10 codes are used for medical diagnosis, not specifically to track unvaccinated people, and some medical professionals say these codes aren't being used for that purpose yet. Many unvaccinated people avoid medical visits, making tracking difficult, and HIPAA concerns exist about data sharing, but actual tracking isn't happening as claimed.",
+    "label": "T"
+  },
+  {
+    "index": 76,
+    "post": "The movie “Zardoz” takes place in 2023, so get ready for everyone to start dressing like this https://t.co/fi8xbiAXSZ",
+    "tweet_id": "1608704062840778755",
+    "community_notes": "Zardoz takes place in 2293.\nhttps://en.wikipedia.org/wiki/Zardoz",
+    "LLM_notes": "The movie \"Zardoz\" is set in the late 23rd century, specifically around the year 2293, not 2023. This is confirmed by multiple sources, with many noting it is approximately 270 years after 2023, not the same year as claimed in the post.",
+    "label": "P"
+  },
+  {
+    "index": 77,
+    "post": "Has anyone else received this notification? https://t.co/gl3jRyHeB0",
+    "tweet_id": "1629637186701373443",
+    "community_notes": "The account that originally shared this screenshot has disclosed that it is fake. It’s purpose was to show how many people would find it believable. \nhttps://twitter.com/walter_report/status/1629715745440690177?s=46&t=14F9AThmjOn0Md4igyl7yg",
+    "LLM_notes": "The post about a notification is fake. No one has received it, even people who have had the Ukrainian flag in their profile for a long time. The original account that shared it is fake and locked, and it was later admitted to be a hoax.",
+    "label": "P"
+  },
+  {
+    "index": 79,
+    "post": "Here's an effective talking point on the GOP's War on Education. 👇\n\nRepublican governors like Ron Desantis are making it a FELONY to teach kids about Rosa Parks. \n\nPass it on.",
+    "tweet_id": "1621984689010651140",
+    "community_notes": "Florida statute 847.012 makes it a third degree felony to knowingly distribute pornographic & sexual material to minors. It does not prohibit teaching about Rosa Parks as this tweet claims.\nhttp://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0847/Sections/0847.012.html",
+    "LLM_notes": "It is false that Republican governors like Ron DeSantis are making it a felony to teach kids about Rosa Parks. Florida’s social studies standards actually require teaching Rosa Parks, and there is no law making that a felony. The only potential issue mentioned is about removing or reviewing books, which is not about making teaching Rosa Parks a crime.",
+    "label": "T"
+  },
+  {
+    "index": 81,
+    "post": "Good morning. The US Congress is about to send another $44 billion to Boeing, Raytheon and the CIA \"for the war in Ukraine.\" \n\nThat's a total of $100 billion sent by the US in 10 months.\n\nThe entire Russian military budget for the year is $65 billion.\n\nhttps://t.co/wszK7RHFos",
+    "tweet_id": "1605568254818144256",
+    "community_notes": "The 44B$ figure largely includes economic and humanitarian aid. \n27.86B$ of the total amount would go directly towards Defense for Ukraine and NATO. The rest would go towards other economic and humanitarian programs to address the devastation caused by the russian war.\nhttps://appropriations.house.gov/sites/democrats.appropriations.house.gov/files/Ukraine%20Supplemental%20Summary%20FY23.pdf",
+    "LLM_notes": "The $100 billion mentioned is an authorization, not actual funds sent to Ukraine, and includes non-military aid (like to Africa), with only a portion being military support, such as $12.4 billion in military aid. Russia’s military budget is not $65 billion; estimates are higher, with UK intelligence suggesting 117.5 billion pounds ($150 billion+), PPP-adjusted at around $200 billion, and 2023 budget projections of $84 billion. Additionally, most of the U.S. aid goes to U.S. military suppliers like Boeing and Raytheon, not directly to Ukraine, and the comparison to Russia’s budget is misleading as Russia’s spending is higher and the U.S. figure is authorization, not all spent.",
+    "label": "P"
+  },
+  {
+    "index": 82,
+    "post": "A brain imaging study on over 60,000 people found that the 2 things that aged your brain the most were schizophrenia and weed. \n\nFar worse than alcohol or cigarettes. \n\nStop pretending weed is healthy. https://t.co/VVkKtaAMWH",
+    "tweet_id": "1640014867943010310",
+    "community_notes": "The screen cap refers to controversial research from 2018, which “appears to prioritize marketing over science.” Also, “no major research institution takes [Daniel Amen’s] SPECT work seriously.” Finally, “the long-term benefits and risks of cannabis use remain unclear.”\nhttps://www.healthline.com/health-news/are-cannabis-abuse-and-accelerated-brain-aging-linked\nhttps://www.washingtonpost.com/lifestyle/magazine/daniel-amen-is-the-most-popular-psychiatrist-in-america-to-most-researchers-and-scientists-thats-a-very-bad-thing/2012/08/07/467ed52c-c540-11e1-8c16-5080b717c13e_story.html\nhttps://www.health.harvard.edu/blog/cognitive-effects-of-long-term-cannabis-use-in-midlife-202206142760",
+    "LLM_notes": "The post's claim that weed ages the brain more than alcohol or cigarettes is inaccurate. Many commenters question the study's validity, noting it's often unlinkable, lacks proper controls, and relies on correlation rather than causation. Other studies show alcohol and cigarettes are far more harmful, causing more deaths and brain damage. Conflicting studies suggest cannabis is safer for brain structure, and the post's focus on weed being worse than alcohol/cigarettes is unsupported by solid, verifiable studies, with confounding variables like mental health issues or socioeconomic status not considered.",
+    "label": "P"
+  },
+  {
+    "index": 83,
+    "post": "This incredibly rare photo of the Amazon snake cat known as “Serpens Catus” goes viral and mystifies internet 🔥🐱 https://t.co/VMG2gceK8q",
+    "tweet_id": "1636344171001774080",
+    "community_notes": "This is altered picture of a cat or a new created picture. Experts have advised there are no species like this cat. Please refer to below source: \nhttps://www.news.com.au/technology/science/animals/amazon-snake-cat-photo-goes-viral-and-mystifies-internet/news-story/60d017a8f794cdbd042b1f46fb6f6da4",
+    "LLM_notes": "The \"Amazon snake cat\" known as \"Serpens Catus\" is not real. There is no evidence supporting the existence of such a species, as its name is not a valid scientific name and no credible records or sightings exist. The image is likely AI-generated or skillfully edited/photoshopped, with features like vibrant yellow and black snake-like patterns and cat traits that do not match real Amazonian animals. A quick online search confirms it has been widely debunked as a hoax, with many noting it resembles AI art.",
+    "label": "P"
+  },
+  {
+    "index": 85,
+    "post": "Kai Cenat has officially joined team kick after Twitch has announced they will not be giving him his “$50M contract” https://t.co/x5az5d7gve",
+    "tweet_id": "1640066216202043392",
+    "community_notes": "Kai Cenat has not joined Kick and remains a Twitch streamer. His official social accounts have made no such announcement. Kai’s streaming platform is Twitch:\nhttps://twitch.tv/kaicenat",
+    "LLM_notes": "Kai Cenat is still streaming on Twitch, and he has confirmed the claim of a $50M contract from Twitch is not true. Many people also question the idea of such a large contract, saying it's unrealistic and that Twitch hasn't given him that amount.",
+    "label": "P"
+  },
+  {
+    "index": 86,
+    "post": "What do you think about Rob Reiner announcing that he is leaving Twitter forever? https://t.co/awXdB1mGd0",
+    "tweet_id": "1616937904982425600",
+    "community_notes": "This image has been altered. The original tweet reads, “Until Trump is Indicted for leading a Deadly Insurrection to Overthrow the United States Government, our Democracy will not be restored.”\nhttps://twitter.com/robreiner/status/1616486479802552320?s=20&t=3xtP_R5WnUZY8LPI6twQGA",
+    "LLM_notes": "The claim that Rob Reiner is leaving Twitter forever is inaccurate. The tweet about him leaving isn’t real—it’s fake, and it’s not on his Twitter page. He’s still active on Twitter; he’s not actually leaving, just said he won’t post, and he’s lied about leaving before, continuing to tweet.",
+    "label": "P"
+  },
+  {
+    "index": 91,
+    "post": "I mean, I'd have probably spelled CORONATION right, but whatever. https://t.co/8JMFOJCgvr",
+    "tweet_id": "1624183363765501953",
+    "community_notes": "The original post from @RoyalFamily spelled \"coronation\" correctly. This version has been photoshopped.\nhttps://www.bbc.com/news/uk-64599029\nhttps://twitter.com/RoyalFamily/status/1624182545846874112",
+    "LLM_notes": "The spelling of \"Conoration\" in the post is incorrect; it should be \"Coronation\". The image appears to be a fake or poorly photoshopped, as the letters (like the R and N) are misaligned and not properly edited. The original tweet or official Royal Family page actually has the correct spelling, with no typo.",
+    "label": "P"
+  },
+  {
+    "index": 92,
+    "post": "With every war going all the way back to Vietnam, the press has been heavily integrated with the troops and there's thousands of hours of live video footage. \n\nIn Ukraine, nothing. \n\nWe get no footage, no detailed updates, no graphs explaining how the war is going, who has… https://t.co/YggVV5c5ad",
+    "tweet_id": "1629175986733416450",
+    "community_notes": "Footage and analysis of the Russian war on Ukraine from multiple media sources including reporters embedded with Ukrainian troops is and has been available.\nhttps://checkyourfact.com/2023/02/01/fact-check-zero-footage-ukrainian-conflict/\nhttps://libguides.pace.edu/ukraine\nhttps://www.indy100.com/news/journalists-reporting-from-ukraine\nThe U.S. is not conducting combat operations in Ukraine, unlike other conflicts involving the U.S. military.\nhttps://www.usatoday.com/story/news/factcheck/2022/11/14/fact-check-us-military-personnel-ukraine-inspectors-security/8262293001/",
+    "LLM_notes": "Ukraine's war is actually the most documented in history, with extensive footage, detailed updates, and maps available. There are thousands of hours of video from social media (Twitter, Telegram, Reddit), embedded journalists, and open-source intelligence, showing everything from drone strikes to frontline movements. The post's claim of \"nothing\" is false; the lack of U.S. troop involvement means there’s no need for U.S.-style embedded press, but Ukraine’s war is widely covered by Ukrainian and Russian sources, journalists, and daily updates online.",
+    "label": "P"
+  },
+  {
+    "index": 93,
+    "post": "How bad is the banking crisis? \n\nThis is the Omaha airport this morning.\n\nEach one is the private jet of a bank CEO looking to get bought out by Warren Buffett. https://t.co/HIx5X6bPiO",
+    "tweet_id": "1637460470306144258",
+    "community_notes": "That's a joke account. That picture is from 2019 in Davos.\nhttps://www.theguardian.com/global-development/2019/jan/22/record-private-jet-flights-davos-leaders-climate-talk",
+    "LLM_notes": "The post claims the photo is Omaha airport with bank CEOs' private jets looking to be bought out by Warren Buffett. This is inaccurate. The photo is not Omaha airport; instead, it has been identified as being from other locations like Davos, Switzerland, Aspen, or Zurich, or as a stock photo from 2019. Additionally, there is no evidence that the CEOs are seeking a buyout by Buffett, with claims calling the post's statement unsubstantiated.",
+    "label": "P"
+  },
+  {
+    "index": 94,
+    "post": "Oh, we’re so sorry to hear that. 🤡 https://t.co/16q4ja5zzy https://t.co/8Ouvl6RtFf",
+    "tweet_id": "1622193984247398403",
+    "community_notes": "This is false https://leadstories.com/hoax-alert/2023/02/fact-check-celebrities-did-not-call-for-total-hollywood-strike-until-everyone-is-vaccinated.html",
+    "LLM_notes": "The post’s claim about Hollywood striking over vaccine mandates is based on a false story from NewsPunch, a known fake news site. The original \"tweet\" was a hoax, with no actual Academy of Motion Picture Arts and Sciences account posting such a message, and it was later revealed to be satire, not factual information.",
+    "label": "P"
+  },
+  {
+    "index": 98,
+    "post": "I refuse to believe this is a real screenshot https://t.co/VApgu55bjK",
+    "tweet_id": "1641286733575716869",
+    "community_notes": "A lot of people in the comments aren’t sure if this is real or not. It is not, her eyes have been photoshopped to appear farther apart than they already are.\nhttps://twitter.com/who_is_savi/status/1641798245251796994?s=46&t=NhxGh3LufnCAgVV4lc_Dyw\nhttps://news.yahoo.com/disneys-live-action-little-mermaid-010000944.html",
+    "LLM_notes": "The screenshot showing the person with extremely wide-set eyes is photoshopped. Many in the discussion note it’s clearly edited, with some sharing what they claim is the original, unaltered image. Some mention the eyes appear wider in the trailer, but most agree the image has been manipulated.",
+    "label": "P"
+  },
+  {
+    "index": 99,
+    "post": "These photos of Donald Trump getting arrested are too much 💀💀 https://t.co/0QSErlQpuw",
+    "tweet_id": "1638197072913481729",
+    "community_notes": "Images of Donald Trump’s arrest circulating on Twitter are fake. They are AI-generated and have no factual basis. For more information, see Ars Technica and Forbes. \nhttps://arstechnica.com/tech-policy/2023/03/fake-ai-generated-images-imagining-donald-trumps-arrest-circulate-on-twitter\nhttps://www.forbes.com/sites/mattnovak/2023/03/19/viral-images-of-donald-trump-getting-arrested-are-totally-fake/",
+    "LLM_notes": "The photos in the post are not real. They are either AI-generated or fake, with inconsistencies like different tie colors noted. Multiple sources confirm they’re not genuine.",
+    "label": "P"
+  },
+  {
+    "index": 101,
+    "post": "BREAKING: Nashville shooter Audrey Hale was getting counseled by church pastor Chad Scruggs whose daughter she targeted and killed.\n\nAbsolutely sickening. https://t.co/MuEuzmaG5j",
+    "tweet_id": "1641488712151486464",
+    "community_notes": "As cited in this article dated: 12:31 EDT, 30 March 2023- \"Metro Nashville Police have been clear that no one was targeted in the shooting, and Pastor Scruggs was not counseling the shooter.\"  These claims made by a former pastor have also been denied by the Covenant School.\nhttps://www.dailymail.co.uk/news/article-11919801/Nashville-school-shooter-private-counselling-sessions-schools-head-pastor.html",
+    "LLM_notes": "The post claimed Audrey Hale was getting counseling from a church pastor whose daughter she targeted and killed, but this is inaccurate. The pastor recanted his initial statement, saying he was mistaken. The claim has been debunked, and church officials have denied it.",
+    "label": "P"
+  },
+  {
+    "index": 102,
+    "post": "Twitter is enforcing its long-standing API rules. That may result in some apps not working.",
+    "tweet_id": "1615405842735714304",
+    "community_notes": "Currently it's all major third party clients not some. Also, it is unknown what long standing rules have been broken as no guidance has been provided to any API partner. And as the tweet notes, these rules have not changed.\nhttps://9to5mac.com/2023/01/17/twitter-disrespect-developers-clients-not-working/\nhttps://developer.twitter.com/en/developer-terms/policy#:~:text=The%20use%20of%20the%20Twitter,people%20to%2C%20violate%20our%20policies.",
+    "LLM_notes": "The idea that Twitter is enforcing long-standing API rules is inaccurate. The API Development Agreement was actually changed on January 19, while the tweet was posted on January 17, before the rules were updated. Twitter is instead targeting popular third-party apps by enforcing recently added rules without prior communication to developers or users, not long-standing ones.",
+    "label": "T"
+  },
+  {
+    "index": 106,
+    "post": "Tory Lanez’s DNA was reportedly not found on the gun used to shoot Megan Thee Stallion 👀 https://t.co/mpahnl9ZS1",
+    "tweet_id": "1604847779242987523",
+    "community_notes": "“Randy Zepeda, a Los Angeles police criminalist, testified on Monday about the DNA evidence in the case, according to KABC, saying that the DNA of four males was found on the firearm magazine and while Lanez' DNA was not found, it doesn't mean he didn't touch it” \nhttps://abcnews.go.com/amp/Entertainment/6-takeaways-tory-lanez-trial-faces-charges-allegedly/story?id=95542084",
+    "LLM_notes": "The post inaccurately states that Tory Lanez’s DNA was \"not found\" on the gun, but the forensic report shows the DNA results were inconclusive, meaning they could not confirm or deny his DNA was on the gun. Additionally, the DNA was not found on the magazine, not the gun itself, and inconclusive results do not definitively rule out his DNA presence.",
+    "label": "P"
+  },
+  {
+    "index": 107,
+    "post": "Germany has officially declared war on Russia. The MSM wants to explain immediately that according to the UN charter it is allowed to send weapons if another country is attacked. But Ukraine was not attacked, it is a special operation to help the civilians in the Donbass. https://t.co/9GHJ1Xg8Vv",
+    "tweet_id": "1619397142157873154",
+    "community_notes": "While Germany's Foreign Minister did say: \"We are fighting a war against Russia and not against each other\", this does not constitute a formal declaration of war; the Foreign Minister does not have this power.\n\nMuch of the article linked above goes on to explain this nuance.\nhttps://www.newsweek.com/germany-says-quiet-part-out-loud-about-ukraine-war-1776593",
+    "LLM_notes": "Germany did not officially declare war on Russia. Ukraine was attacked by Russia, not just a \"special operation\" in the Donbass, as Russian forces crossed international borders, attacked cities far beyond the Donbas (like Kyiv and Kharkiv), and committed war crimes against civilians, such as killing and kidnapping.",
+    "label": "P"
+  },
+  {
+    "index": 109,
+    "post": "It happened again. How many have to die before @NHTSAgov does something about “Full Self Driving?”\n\n“The driver of a Tesla was killed after slamming into a semi-truck Tuesday night.”\n\ncc: @icapulet \n\n$TSLA\n\nhttps://t.co/BI0gpaLZI2",
+    "tweet_id": "1615696458258468869",
+    "community_notes": "The driver committed suicide.\nhttps://www.hddailynews.com/news/local/driver-takes-his-own-life-in-bvr-tesla-crash/article_091c45e6-9755-11ed-bec8-4f4707fc3185.html\nAdditionally, being a 2015 Model S, this vehicle was not equipped with the hardware necessary for Full Self Driving.  The required hardware was installed on vehicles built from October 2016.\nhttps://www.tesla.com/blog/all-tesla-cars-being-produced-now-have-full-self-driving-hardware",
+    "LLM_notes": "The post claims the crash involving a Tesla and semi-truck was due to \"Full Self Driving,\" but the article doesn’t mention FSD being involved. The vehicle is a 2015 or earlier Model S, which lacks the hardware for FSD. Additionally, police ruled the driver’s death a suicide, not related to driving features. Active safety features like brakes work, and the crash likely stemmed from driver error or suicide, not FSD.",
+    "label": "T"
+  },
+  {
+    "index": 110,
+    "post": "Rt this.  https://t.co/350vOLkrux",
+    "tweet_id": "1607183936270258181",
+    "community_notes": "The Vancouver Times is a satire news site.  \n\nFrom the about us page: \nVancouver Times is the most trusted source for satire on the West Coast. We write satirical stories about issues that affect conservatives.\nhttps://vancouvertimes.org/about-us/",
+    "LLM_notes": "The post comes from a satire site and is not real.",
+    "label": "T"
+  },
+  {
+    "index": 111,
+    "post": "The FBI just admitted in court filings that Seth Rich was the person who sent DNC files to Wikileaks. Add it to the list of things I was right about. Link in comments.",
+    "tweet_id": "1616215041568821260",
+    "community_notes": "The Court filing only mentions a FBI-302 form that allegedly reveals that Rich's personal laptop was provided to the FBI to help determine whether the Russians hacked into his electronic devices to make it appear that he was the source of the DNC emails published by Wikileaks: https://storage.courtlistener.com/recap/gov.uscourts.txed.197917/gov.uscourts.txed.197917.92.0.pdf",
+    "LLM_notes": "The documents mentioned are filed by a plaintiff, not the government or the FBI. The FBI did not admit that Seth Rich sent DNC files to Wikileaks; the filings do not confirm this, and the FBI never responded to these claims.",
+    "label": "T"
+  },
+  {
+    "index": 112,
+    "post": "BREAKING: The gay dating app Grindr says if Florida doesn’t stop passing homophobic and transphobic laws, they’ll reveal every Republican legislator and party official who secretly uses the app.",
+    "tweet_id": "1638665081587130368",
+    "community_notes": "Grindr has not issued any threats to disclose user data concerning public officials. Although this tweet is satirical, some readers might mistakenly perceive it as factual.\nhttps://apnews.com/article/fact-check-grindr-lawmakers-florida-501301904630",
+    "LLM_notes": "Revealing Republican legislators' private Grindr use would be illegal because it violates data privacy laws and Grindr's own user agreement, which prohibits releasing personal information. This action could also lead to massive lawsuits and legal trouble for the app, as disclosing private data against users' will is not allowed by law. Additionally, the company, which is owned by a gay Republican, would likely face significant backlash and financial harm from such a move, making it unlikely to proceed with the threat.",
+    "label": "T"
+  },
+  {
+    "index": 114,
+    "post": "When Melania Trump looks at this picture today, knowing what we all know  ….what is she thinking? https://t.co/dQoq5mkgqv",
+    "tweet_id": "1639393041151819776",
+    "community_notes": "This is a fake picture.\nhttps://www.snopes.com/fact-check/donald-trump-melania-trump-stormy-daniels/",
+    "LLM_notes": "The picture in the post is fake and photoshopped. Multiple people note it’s an altered image, likely merging two different photos—some suggest it replaced Ivanka with Stormy Daniels in the original. It’s been debunked, and spreading it as real isn’t accurate.",
+    "label": "P"
+  },
+  {
+    "index": 122,
+    "post": "Kid’s section in the library: https://t.co/R8U48CA9EA",
+    "tweet_id": "1616194648753721344",
+    "community_notes": "This picture is from a LGBT+ section in a library, not the \"kid's section\".\n\nThe original source of this image is the Cork city library: \nhttps://mobile.twitter.com/corkcitylibrary/status/1615348224830722048",
+    "LLM_notes": "The post inaccurately portrays the kids’ section of a library as dominated by problematic books, but this is a misrepresentation. It is actually a tiny part of the section, and the image has been debunked as spreading misinformation. Some commenters note the need for full context, as the area does not clearly look like a children’s section, and the books in question are not the majority of the kids’ section.",
+    "label": "P"
+  },
+  {
+    "index": 123,
+    "post": "A day after Andrew Tate calls out \"the woke hero\" Greta Thunberg, they arrest him.  First they came for Trump next they come for Andrew and next they'll come for every other conservative with false charges.",
+    "tweet_id": "1608958763595354112",
+    "community_notes": "The arrest was unrelated to Greta Thunberg. Romania’s anti-organized crime agency has been investigating the offenders for over a year, and “the four suspects in the case were arrested on charges of being part of an organized crime group, human trafficking and rape.”\nhttps://apnews.com/article/romania-crime-bucharest-organized-human-trafficking-0b65ac32442d995e590ab70c221398a1",
+    "LLM_notes": "Andrew Tate was arrested in Romania, not the US, because of ongoing human trafficking investigations, not because he criticized Greta Thunberg. He had been under investigation and had arrest warrants in Romania for months before any mention of Greta. The post’s claim that \"they\" (the left) are targeting conservatives with false charges is incorrect; Tate’s charges are credible, and Trump hasn’t been convicted of crimes. Greta Thunberg is an environmental activist, not a \"woke hero,\" and the right has long attacked her.",
+    "label": "T"
+  },
+  {
+    "index": 124,
+    "post": "I'm being told Pfizer spelled backward in Hebrew, means God of plagues.  Who can confirm?\n\nFor now, Google says yes until it's scrubbed.",
+    "tweet_id": "1622813667480981504",
+    "community_notes": "Pfizer spelled backwards is \"Rezifp\", which has no historical use anywhere, although it can be pronounced similarly to the name of an ancient Hebrew god named \"Resheph\", the \"god of the plague and underworld\".\nhttps://www.britannica.com/topic/Resheph",
+    "LLM_notes": "The claim that Pfizer spelled backward in Hebrew means \"God of plagues\" is inaccurate. The correct Hebrew name for the ancient West Semitic god of the plague is Resheph, not \"rezifp\" (the backward spelling of Pfizer). Hebrew is read right to left, so backward English words like \"Pfizer\" don’t directly translate. Google translate says no, and some commenters note there’s no actual Hebrew meaning for \"rezifp,\" with others confirming it’s a stretch or false. Additionally, Pfizer is a German surname from its founder, not a刻意 chosen secret message.",
+    "label": "T"
+  }
+]
