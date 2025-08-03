@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="intro-style.css">
+</head>
+<body>
+    <div class="intro-container">
+        <div class="intro-content">
+            <h1>Introduction</h1>
+            
+            <div class="introduction-section">
+                <p>Dear Participant,</p>
+                
+                <p>Thank you for participating in this study. Before you begin, please review the general principles for what makes a high-quality note.</p>
+                
+                <h3>Guiding Principles for Evaluation</h3>
+                
+                <p>To help ensure consistency, please keep the following characteristics of a high-quality note in mind during your evaluation.</p>
+                
+                <p><strong>Helpful:</strong> A helpful note adds necessary, factual context or clarifies key information in the original post.</p>
+                
+                <p><strong>Clear:</strong> It is easy to understand, using direct and simple language.</p>
+                
+                <p><strong>Objective:</strong> It focuses on verifiable facts and maintains a neutral tone, avoiding personal opinions or argumentative language.</p>
+                
+                <h3>Your Tasks</h3>
+                
+                <p>You will be evaluating approximately 20 posts. For each post, you will be shown two notes ('Note A' and 'Note B') and will have three main tasks:</p>
+                
+                <p><strong>1. Is this note helpful?</strong></p>
+                <p>First, you will provide an overall helpfulness rating for each of the two notes individually ('Helpful', 'Somewhat Helpful', or 'Not Helpful').</p>
+                
+                <p><strong>2. What was helpful about it?</strong></p>
+                <p>Next, you will evaluate each note on several specific qualities, keeping the guiding principles in mind.</p>
+                
+                <p><strong>3. Choose the more helpful note:</strong></p>
+                <p>Finally, you will make a direct comparison and choose which of the two notes you believe is more helpful overall.</p>
+                
+                <p><strong>Important:</strong> The principles above are for general guidance. Your personal and honest judgment is what matters most. There are no "right" or "wrong" answers.</p>
+                
+                <p>Thank you for your careful evaluation!</p>
+            </div>
+            
+            <div class="form-section">
+                <h3>Please add your Name here and carefully read the instructions before proceeding</h3>
+                
+                <form id="introForm">
+                    <div class="input-group">
+                        <input type="text" id="participantName" placeholder="Name" required>
+                    </div>
+                    
+                    <div class="checkbox-group">
+                        <label class="checkbox-container">
+                            <input type="checkbox" id="instructionsRead" required>
+                            <span class="checkmark"></span>
+                            I have read and understand the instructions
+                        </label>
+                    </div>
+                    
+                    <button type="button" id="startButton" class="start-button" disabled>
+                        Start
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <script src="intro-script.js"></script>
+</body>
+</html>
