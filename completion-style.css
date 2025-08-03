@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f5f5f5;
+    line-height: 1.5;
+    color: #333;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.completion-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.completion-content {
+    background-color: white;
+    border-radius: 12px;
+    padding: 60px 40px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.completion-message h1 {
+    font-size: 28px;
+    font-weight: 600;
+    color: #2d3436;
+    margin-bottom: 20px;
+}
+
+.completion-message p {
+    font-size: 18px;
+    color: #555;
+    font-weight: 400;
+}
+
+/* Add a subtle success indicator */
+.completion-content::before {
+    content: "✓";
+    display: block;
+    font-size: 48px;
+    color: #28a745;
+    margin-bottom: 20px;
+    line-height: 1;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .completion-content {
+        padding: 40px 30px;
+    }
+    
+    .completion-message h1 {
+        font-size: 24px;
+    }
+    
+    .completion-message p {
+        font-size: 16px;
+    }
+    
+    .completion-content::before {
+        font-size: 36px;
+    }
+}

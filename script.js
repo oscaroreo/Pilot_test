@@ -1,7 +1,7 @@
 let data = [];
 let currentIndex = 0;
 
-// 加载数据
+// Load data
 fetch('data/pilot_1_1.json')
     .then(response => response.json())
     .then(jsonData => {
@@ -11,7 +11,7 @@ fetch('data/pilot_1_1.json')
     })
     .catch(error => {
         console.error('Error loading data:', error);
-        alert('加载数据失败，请刷新页面重试');
+        alert('Failed to load data, please refresh the page and try again');
     });
 
 function displayData(index) {
@@ -19,47 +19,54 @@ function displayData(index) {
 
     const item = data[index];
     
-    // 更新图片
+    // Update image
     const imagePath = `data/img/post${item.index}.png`;
     document.getElementById('postImage').src = imagePath;
     document.getElementById('postImage').onerror = function() {
         this.src = '';
-        this.alt = '图片未找到';
+        this.alt = 'Image not found';
     };
 
-    // 更新文本内容
-    document.getElementById('postIndex').textContent = item.index;
-    document.getElementById('tweetId').textContent = item.tweet_id;
-    document.getElementById('postText').textContent = item.post;
+    // Update text content
     document.getElementById('communityNote').textContent = item.community_notes;
     document.getElementById('llmNote').textContent = item.LLM_notes;
-    
-    // 更新标签
-    const label = document.getElementById('label');
-    label.textContent = `标签: ${item.label}`;
-    label.className = 'label label-' + item.label;
 
-    // 更新页码
+    // Update tweet number
     document.getElementById('currentPage').textContent = index + 1;
 
-    // 更新按钮状态
+    // Update button state
     document.getElementById('prevBtn').disabled = index === 0;
-    document.getElementById('nextBtn').disabled = index === data.length - 1;
+    const nextBtn = document.getElementById('nextBtn');
     
-    // 重置所有单选框
+    // On last page, change Next to Submit
+    if (index === data.length - 1) {
+        nextBtn.textContent = 'Submit';
+        nextBtn.onclick = submitData;
+    } else {
+        nextBtn.textContent = 'Next';
+        nextBtn.onclick = nextPage;
+    }
+    
+    // Reset all radio buttons
     const communityRadios = document.querySelectorAll('input[name="community_helpfulness"]');
     communityRadios.forEach(radio => radio.checked = false);
     
     const llmRadios = document.querySelectorAll('input[name="llm_helpfulness"]');
     llmRadios.forEach(radio => radio.checked = false);
     
-    // 重置所有Likert量表选项
+    // Reset all Likert scale options
     const likertRadios = document.querySelectorAll('input[type="radio"][name*="_source_quality"], input[type="radio"][name*="_clarity"], input[type="radio"][name*="_coverage"], input[type="radio"][name*="_context"], input[type="radio"][name*="_impartiality"]');
     likertRadios.forEach(radio => radio.checked = false);
     
-    // 重置比较选择问题
+    // Reset comparison question
     const comparisonRadios = document.querySelectorAll('input[name="note_comparison"]');
     comparisonRadios.forEach(radio => radio.checked = false);
+    
+    // Reset collapsible state (default collapsed)
+    const collapsibleContents = document.querySelectorAll('.collapsible-content');
+    const collapsibleHeaders = document.querySelectorAll('.collapsible-header');
+    collapsibleContents.forEach(content => content.classList.remove('show'));
+    collapsibleHeaders.forEach(header => header.classList.remove('active'));
 }
 
 function previousPage() {
@@ -76,7 +83,7 @@ function nextPage() {
     }
 }
 
-// 键盘快捷键支持
+// Keyboard shortcut support
 document.addEventListener('keydown', function(e) {
     if (e.key === 'ArrowLeft') {
         previousPage();
@@ -85,20 +92,52 @@ document.addEventListener('keydown', function(e) {
     }
 });
 
-// 处理单选框变化
+// Handle radio button change
 function handleRadioChange(radio, noteType) {
-    // 目前只是简单记录选择，不做存储
+    // Currently just logging selection, not storing
     console.log(`Selected: ${radio.value} for ${noteType} note, item index: ${data[currentIndex].index}`);
 }
 
-// 处理Likert量表变化
+// Handle Likert scale change
 function handleLikertChange(radio, noteType, dimension) {
-    // 目前只是简单记录选择，不做存储
+    // Currently just logging selection, not storing
     console.log(`Likert: ${radio.value} for ${noteType} note, dimension: ${dimension}, item index: ${data[currentIndex].index}`);
 }
 
-// 处理比较选择变化
+// Handle comparison choice change
 function handleComparisonChange(radio) {
-    // 目前只是简单记录选择，不做存储
+    // Currently just logging selection, not storing
     console.log(`Comparison: ${radio.value} selected, item index: ${data[currentIndex].index}`);
+}
+
+// Collapsible functionality
+function toggleCollapse(contentId, buttonElement) {
+    const content = document.getElementById(contentId);
+    const header = buttonElement;
+    
+    if (content.classList.contains('show')) {
+        // Collapse
+        content.classList.remove('show');
+        header.classList.remove('active');
+    } else {
+        // Expand
+        content.classList.add('show');
+        header.classList.add('active');
+    }
+}
+
+// Submit data function
+function submitData() {
+    // Log submission details
+    console.log('Data submitted!');
+    console.log('Submission time:', new Date().toISOString());
+    
+    // Get participant name from localStorage if available
+    const participantName = localStorage.getItem('participantName');
+    if (participantName) {
+        console.log('Participant:', participantName);
+    }
+    
+    // Redirect to completion page
+    window.location.href = 'completion.html';
 }

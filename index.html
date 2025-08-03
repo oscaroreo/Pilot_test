@@ -1,21 +1,15 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pilot 1.1 数据展示</title>
+    <title>Test</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <div class="navigation">
-            <div class="page-info">
-                第 <span id="currentPage">1</span> / <span id="totalPages">1</span> 页
-            </div>
-            <div class="nav-buttons">
-                <button class="nav-button" id="prevBtn" onclick="previousPage()">上一页</button>
-                <button class="nav-button" id="nextBtn" onclick="nextPage()">下一页</button>
-            </div>
+        <div class="page-info">
+            Tweet <span id="currentPage">1</span> / <span id="totalPages">1</span>
         </div>
 
         <div class="content-card">
@@ -24,47 +18,45 @@
             </div>
             
             <div class="text-content">
-                <div class="meta-info">
-                    <div class="index-badge">编号: <span id="postIndex"></span></div>
-                    <div class="tweet-id">Tweet ID: <span id="tweetId"></span></div>
-                </div>
-
-                <div class="section">
-                    <h2 class="section-title">原始推文</h2>
-                    <div class="post-text" id="postText"></div>
-                </div>
 
                 <div class="section">
                     <h2 class="section-title">Community Note</h2>
                     <div class="note-content community-note" id="communityNote"></div>
                     
-                    <!-- Community Note 问题 -->
-                    <div class="question-section">
-                        <form id="communityQuestionForm">
-                            <div class="question-label">Is this note helpful?</div>
-                            <div class="radio-group">
-                                <label class="radio-option">
-                                    <input type="radio" name="community_helpfulness" value="not helpful" onchange="handleRadioChange(this, 'community')">
-                                    <span>Not helpful</span>
-                                </label>
-                                <label class="radio-option">
-                                    <input type="radio" name="community_helpfulness" value="somewhat helpful" onchange="handleRadioChange(this, 'community')">
-                                    <span>Somewhat helpful</span>
-                                </label>
-                                <label class="radio-option">
-                                    <input type="radio" name="community_helpfulness" value="helpful" onchange="handleRadioChange(this, 'community')">
-                                    <span>Helpful</span>
-                                </label>
+                    <!-- Community Note Collapsible -->
+                    <div class="collapsible-container">
+                        <button class="collapsible-header" onclick="toggleCollapse('community-questions', this)">
+                            <span>Community Note Questions</span>
+                            <span class="collapse-icon">▼</span>
+                        </button>
+                        <div class="collapsible-content" id="community-questions">
+                            <!-- Community Note Questions -->
+                            <div class="question-section">
+                                <form id="communityQuestionForm">
+                                    <div class="question-label">Is this note helpful?</div>
+                                    <div class="radio-group">
+                                        <label class="radio-option">
+                                            <input type="radio" name="community_helpfulness" value="not helpful" onchange="handleRadioChange(this, 'community')">
+                                            <span>Not helpful</span>
+                                        </label>
+                                        <label class="radio-option">
+                                            <input type="radio" name="community_helpfulness" value="somewhat helpful" onchange="handleRadioChange(this, 'community')">
+                                            <span>Somewhat helpful</span>
+                                        </label>
+                                        <label class="radio-option">
+                                            <input type="radio" name="community_helpfulness" value="helpful" onchange="handleRadioChange(this, 'community')">
+                                            <span>Helpful</span>
+                                        </label>
+                                    </div>
+                                </form>
                             </div>
-                        </form>
-                    </div>
-                    
-                    <!-- Community Note 详细评分 -->
-                    <div class="rating-items">
-                        <div class="question-label">What was helpful about it?</div>
-                        <!-- 来源质量 -->
+                            
+                            <!-- Community Note Detailed Rating -->
+                            <div class="rating-items">
+                                <div class="question-label">What was helpful about it?</div>
+                        <!-- Source Quality -->
                         <div class="rating-item">
-                            <div class="rating-statement">"The sources on the note are high-quality and relevant"</div>
+                            <div class="rating-statement">The sources on the note are high-quality and relevant</div>
                             <div class="likert-scale">
                                 <label class="likert-option">
                                     <input type="radio" name="community_source_quality" value="1" onchange="handleLikertChange(this, 'community', 'source_quality')">
@@ -89,9 +81,9 @@
                             </div>
                         </div>
                         
-                        <!-- 清晰度 -->
+                        <!-- Clarity -->
                         <div class="rating-item">
-                            <div class="rating-statement">"The note is written in clear, correct language"</div>
+                            <div class="rating-statement">The note is written in clear, correct language</div>
                             <div class="likert-scale">
                                 <label class="likert-option">
                                     <input type="radio" name="community_clarity" value="1" onchange="handleLikertChange(this, 'community', 'clarity')">
@@ -116,9 +108,9 @@
                             </div>
                         </div>
                         
-                        <!-- 覆盖范围 -->
+                        <!-- Coverage -->
                         <div class="rating-item">
-                            <div class="rating-statement">"The note addresses all key claims in the post"</div>
+                            <div class="rating-statement">The note addresses all key claims in the post</div>
                             <div class="likert-scale">
                                 <label class="likert-option">
                                     <input type="radio" name="community_coverage" value="1" onchange="handleLikertChange(this, 'community', 'coverage')">
@@ -143,9 +135,9 @@
                             </div>
                         </div>
                         
-                        <!-- 上下文 -->
+                        <!-- Context -->
                         <div class="rating-item">
-                            <div class="rating-statement">"The note provides important context"</div>
+                            <div class="rating-statement">The note provides important context</div>
                             <div class="likert-scale">
                                 <label class="likert-option">
                                     <input type="radio" name="community_context" value="1" onchange="handleLikertChange(this, 'community', 'context')">
@@ -170,9 +162,9 @@
                             </div>
                         </div>
                         
-                        <!-- 公正性 -->
+                        <!-- Impartiality -->
                         <div class="rating-item">
-                            <div class="rating-statement">"The note is NOT argumentative, speculative or biased"</div>
+                            <div class="rating-statement">The note is NOT argumentative, speculative or biased</div>
                             <div class="likert-scale">
                                 <label class="likert-option">
                                     <input type="radio" name="community_impartiality" value="1" onchange="handleLikertChange(this, 'community', 'impartiality')">
@@ -197,39 +189,48 @@
                             </div>
                         </div>
                     </div>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="section">
                     <h2 class="section-title">LLM Note</h2>
                     <div class="note-content llm-note" id="llmNote"></div>
                     
-                    <!-- LLM Note 问题 -->
-                    <div class="question-section">
-                        <form id="llmQuestionForm">
-                            <div class="question-label">Is this note helpful?</div>
-                            <div class="radio-group">
-                                <label class="radio-option">
-                                    <input type="radio" name="llm_helpfulness" value="not helpful" onchange="handleRadioChange(this, 'llm')">
-                                    <span>Not helpful</span>
-                                </label>
-                                <label class="radio-option">
-                                    <input type="radio" name="llm_helpfulness" value="somewhat helpful" onchange="handleRadioChange(this, 'llm')">
-                                    <span>Somewhat helpful</span>
-                                </label>
-                                <label class="radio-option">
-                                    <input type="radio" name="llm_helpfulness" value="helpful" onchange="handleRadioChange(this, 'llm')">
-                                    <span>Helpful</span>
-                                </label>
+                    <!-- LLM Note Collapsible -->
+                    <div class="collapsible-container">
+                        <button class="collapsible-header" onclick="toggleCollapse('llm-questions', this)">
+                            <span>LLM Note Questions</span>
+                            <span class="collapse-icon">▼</span>
+                        </button>
+                        <div class="collapsible-content" id="llm-questions">
+                            <!-- LLM Note Questions -->
+                            <div class="question-section">
+                                <form id="llmQuestionForm">
+                                    <div class="question-label">Is this note helpful?</div>
+                                    <div class="radio-group">
+                                        <label class="radio-option">
+                                            <input type="radio" name="llm_helpfulness" value="not helpful" onchange="handleRadioChange(this, 'llm')">
+                                            <span>Not helpful</span>
+                                        </label>
+                                        <label class="radio-option">
+                                            <input type="radio" name="llm_helpfulness" value="somewhat helpful" onchange="handleRadioChange(this, 'llm')">
+                                            <span>Somewhat helpful</span>
+                                        </label>
+                                        <label class="radio-option">
+                                            <input type="radio" name="llm_helpfulness" value="helpful" onchange="handleRadioChange(this, 'llm')">
+                                            <span>Helpful</span>
+                                        </label>
+                                    </div>
+                                </form>
                             </div>
-                        </form>
-                    </div>
-                    
-                    <!-- LLM Note 详细评分 -->
-                    <div class="rating-items">
-                        <div class="question-label">What was helpful about it?</div>
-                        <!-- 来源质量 -->
+                            
+                            <!-- LLM Note Detailed Rating -->
+                            <div class="rating-items">
+                                <div class="question-label">What was helpful about it?</div>
+                        <!-- Source Quality -->
                         <div class="rating-item">
-                            <div class="rating-statement">"The sources on the note are high-quality and relevant"</div>
+                            <div class="rating-statement">The sources on the note are high-quality and relevant</div>
                             <div class="likert-scale">
                                 <label class="likert-option">
                                     <input type="radio" name="llm_source_quality" value="1" onchange="handleLikertChange(this, 'llm', 'source_quality')">
@@ -254,9 +255,9 @@
                             </div>
                         </div>
                         
-                        <!-- 清晰度 -->
+                        <!-- Clarity -->
                         <div class="rating-item">
-                            <div class="rating-statement">"The note is written in clear, correct language"</div>
+                            <div class="rating-statement">The note is written in clear, correct language</div>
                             <div class="likert-scale">
                                 <label class="likert-option">
                                     <input type="radio" name="llm_clarity" value="1" onchange="handleLikertChange(this, 'llm', 'clarity')">
@@ -281,9 +282,9 @@
                             </div>
                         </div>
                         
-                        <!-- 覆盖范围 -->
+                        <!-- Coverage -->
                         <div class="rating-item">
-                            <div class="rating-statement">"The note addresses all key claims in the post"</div>
+                            <div class="rating-statement">The note addresses all key claims in the post</div>
                             <div class="likert-scale">
                                 <label class="likert-option">
                                     <input type="radio" name="llm_coverage" value="1" onchange="handleLikertChange(this, 'llm', 'coverage')">
@@ -308,9 +309,9 @@
                             </div>
                         </div>
                         
-                        <!-- 上下文 -->
+                        <!-- Context -->
                         <div class="rating-item">
-                            <div class="rating-statement">"The note provides important context"</div>
+                            <div class="rating-statement">The note provides important context</div>
                             <div class="likert-scale">
                                 <label class="likert-option">
                                     <input type="radio" name="llm_context" value="1" onchange="handleLikertChange(this, 'llm', 'context')">
@@ -335,9 +336,9 @@
                             </div>
                         </div>
                         
-                        <!-- 公正性 -->
+                        <!-- Impartiality -->
                         <div class="rating-item">
-                            <div class="rating-statement">"The note is NOT argumentative, speculative or biased"</div>
+                            <div class="rating-statement">The note is NOT argumentative, speculative or biased</div>
                             <div class="likert-scale">
                                 <label class="likert-option">
                                     <input type="radio" name="llm_impartiality" value="1" onchange="handleLikertChange(this, 'llm', 'impartiality')">
@@ -362,9 +363,11 @@
                             </div>
                         </div>
                     </div>
+                        </div>
+                    </div>
                 </div>
 
-                <!-- 问题三：比较选择 -->
+                <!-- Question 3: Comparison -->
                 <div class="comparison-section">
                     <div class="comparison-question">
                         <form id="comparisonForm">
@@ -382,11 +385,12 @@
                         </form>
                     </div>
                 </div>
-
-                <div>
-                    <span id="label" class="label"></span>
-                </div>
             </div>
+        </div>
+
+        <div class="navigation">
+            <button class="nav-button" id="prevBtn" onclick="previousPage()">Previous</button>
+            <button class="nav-button" id="nextBtn" onclick="nextPage()">Next</button>
         </div>
 
     </div>
